@@ -1,0 +1,56 @@
+body{
+    background-color: gray;
+}
+.card{
+    border: 2px solid rgb(187, 184, 184);
+    height: 80vh;
+    width: 30vw;
+    margin: auto;
+    margin-top: 10vh;
+    box-sizing: border-box;
+    border-radius: 16px;
+    background-color: white;
+}
+img{
+    width: 28vw;
+    padding: 0.8vw;
+    border-radius: 16px;
+}
+.block{
+    
+    padding: 1vw 0vw 0vw 2vw;
+}
+.block3{
+    border: 1px solid gray;
+    padding: 0.8vw;
+    border-radius: 16px; 
+    color: grey;  
+    margin: 0vw 2vw 0vw 0vw;
+}
+h1{
+    padding-left: 1vw;
+}
+p{
+    padding: 0vw 1vw 0vw 1vw;
+    color: gray;
+} 
+.para{
+    height: 30vh;
+    margin-top: 5vh;
+}   
+.read{
+    
+    text-align: center;
+} 
+a{
+    text-decoration: none;
+    background-color: rgba(79, 244, 244, 0.712);
+    color: rgba(6, 38, 246, 0.766);
+    padding: 1vw 2vw 1vw 2vw;
+    border-radius: 16px;
+    font-weight: bolder;
+}  
+a:hover{
+    background-color: rgba(72, 96, 249, 0.766);
+    color: rgba(0, 255, 255, 0.8);
+}
